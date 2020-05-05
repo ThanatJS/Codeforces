@@ -28,6 +28,7 @@ int main() {
     }else{
         cout << "NO" << '\n';
     }
-     
+    
+    cout << "kk";
     return 0;
 }
